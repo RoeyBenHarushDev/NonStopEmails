@@ -1,7 +1,3 @@
-כמובן! הנה תבנית ל-README עבור הפרויקט שלך:
-
----
-
 # EmailByTimerCrypted
 
 A Python-based automated email sender with Tor integration for anonymized email delivery. This tool allows users to schedule and send emails at set intervals, with the option to attach images, using a modern GUI. 
