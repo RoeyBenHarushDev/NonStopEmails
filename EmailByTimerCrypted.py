@@ -25,8 +25,8 @@ def set_tor_proxy():
         return False
 
 
-EMAIL_ADDRESS = "Roey1234r@gmail.com"
-EMAIL_PASSWORD = "jyql zvhs uxnd rlqj"
+EMAIL_ADDRESS = "Your_Email"
+EMAIL_PASSWORD = "Your_Password"
 
 stop_sending = False
 email_count = 0
