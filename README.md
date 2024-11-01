@@ -68,7 +68,3 @@ A Python-based automated email sender with Tor integration for anonymized email 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-כמובן שאפשר לשנות או להוסיף מידע לפי הצורך!
